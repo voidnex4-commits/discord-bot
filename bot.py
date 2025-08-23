@@ -24,11 +24,11 @@ from discord.ext import commands, tasks
 ###############################################################################
 
 # === REQUIRED: put your server ID here (enables targeted sync and thread creation)
-GUILD_ID = 0  # <-- set to your guild ID (int). If 0, bot will global sync (slower)
+GUILD_ID = 1377700771683893309  # <-- set to your guild ID (int). If 0, bot will global sync (slower)
 
 # === Role IDs for anti-ping:
-SLT_ROLE_ID = 0   # <-- set to your SLT role ID (int)
-ALT_ROLE_ID = 0   # <-- set to your ALT role ID (int)
+SLT_ROLE_ID = 1377701315576201308   # <-- set to your SLT role ID (int)
+ALT_ROLE_ID = 1377701319053283379   # <-- set to your ALT role ID (int)
 
 # === Channels you gave:
 PROMOTIONS_CHANNEL_ID = 1378002943269146796
